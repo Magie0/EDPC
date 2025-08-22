@@ -1,0 +1,16 @@
+# Claude Code related files
+CLAUDE.md
+.claude/
+
+# Temporary files
+*_temp/
+__pycache__/
+*.pyc
+*.pyo
+
+# Test files
+test_*.bin
+decompressed_out
+
+# Compressed files
+*.compressed*
